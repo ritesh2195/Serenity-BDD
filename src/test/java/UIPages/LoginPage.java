@@ -8,7 +8,7 @@ public class LoginPage extends PageObject {
 
     public void doLogin() {
 
-        $("#email").sendKeys("sameer21@gmail.com");
+        $("#email").sendKeys("rrm@gmail.com");
 
         $("#passwd").sendKeys("qwerty");
 
