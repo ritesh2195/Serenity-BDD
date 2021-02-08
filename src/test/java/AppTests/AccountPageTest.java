@@ -12,16 +12,13 @@ import org.openqa.selenium.WebDriver;
 import Steps.LoginPageSteps;
 
 @RunWith(SerenityRunner.class)
-public class AccountPageTest {
+public class AccountPageTest extends BaseTest {
 
     @Steps
     LoginPageSteps loginPageSteps;
 
     @Steps
     AccountPageSteps accountPageSteps;
-
-    @Managed()
-    WebDriver browser;
 
     @Before
     public void setUp(){

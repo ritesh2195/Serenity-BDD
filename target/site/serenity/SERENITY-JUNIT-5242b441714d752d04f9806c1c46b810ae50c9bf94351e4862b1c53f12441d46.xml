@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="AppTests.ContactUsPageTest" skipped="0" tests="1" time="70.27" timestamp="2021-02-08 07:54:45"><testcase classname="AppTests.ContactUsPageTest" name="Contact us page test"><failure message="expected:&lt;...lly sent to our team[]&gt; but was:&lt;...lly sent to our team[.]&gt;" type="org.junit.ComparisonFailure">expected:&lt;...lly sent to our team[]&gt; but was:&lt;...lly sent to our team[.]&gt;</failure><system-err>expected:&lt;...lly sent to our team[]&gt; but was:&lt;...lly sent to our team[.]&gt;&#13;
+AppTests.ContactUsPageTest.contactUsPageTest(ContactUsPageTest.java:41)&#13;
+</system-err></testcase></testsuite>

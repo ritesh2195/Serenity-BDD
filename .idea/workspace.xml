@@ -2,64 +2,66 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7ec123-d537-42a2-a10f-9d89d50bc6c6" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileChanges/last-build.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileContent/fileContent.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/fileHashes/fileHashes.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/gc.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/classAnalysis.bin" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/javaCompile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/javaCompile/taskHistory.bin" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/classAnalysis.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8/javaCompile/javaCompile.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/checksums/sha1-checksums.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/AppTests/AccountPageTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/AppTests/AccountPageTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/test/Steps/LoginPageSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/Steps/LoginPageSteps.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/classes/java/test/UIPages/LoginPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/test/UIPages/LoginPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/AppTests.AccountPageTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/AppTests.AccountPageTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/classes/AppTests.LoginPageTest.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/classes/AppTests.LoginPageTest.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/reports/tests/test/packages/AppTests.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/tests/test/packages/AppTests.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/resources/test/serenity.conf" beforeDir="false" afterPath="$PROJECT_DIR$/build/resources/test/serenity.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-AppTests.AccountPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-AppTests.AccountPageTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/TEST-AppTests.LoginPageTest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/TEST-AppTests.LoginPageTest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/output.bin.idx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" beforeDir="false" afterPath="$PROJECT_DIR$/build/test-results/test/binary/results.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileTestJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/AppTests/AccountPageTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/AppTests/AccountPageTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Steps/LoginPageSteps.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Steps/LoginPageSteps.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/UIPages/LoginPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/UIPages/LoginPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/resources/serenity.conf" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/resources/serenity.conf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/01373e890b43cb665c8f19ab0a20d41022d82ef286dd71eb670124c173976618.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01373e890b43cb665c8f19ab0a20d41022d82ef286dd71eb670124c173976618.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/01f5288b80adbd3af52a8ed68a4a616d3164f750229f80da1ef344382d948835.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/101d52b8fe0a6a834462cc537afe63cd79c560b2bd2032d344521a8bf8382b13.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/101d52b8fe0a6a834462cc537afe63cd79c560b2bd2032d344521a8bf8382b13.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/618abf81f1dff99372f403f147974c12b3963297367168392042452cfcbe72d2.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/618abf81f1dff99372f403f147974c12b3963297367168392042452cfcbe72d2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/04bfeb0bae02fa6f74dc238163599059d277a0023ddbf7b22c37265e790bcff2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/04bfeb0bae02fa6f74dc238163599059d277a0023ddbf7b22c37265e790bcff2.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/04bfeb0bae02fa6f74dc238163599059d277a0023ddbf7b22c37265e790bcff2.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/04bfeb0bae02fa6f74dc238163599059d277a0023ddbf7b22c37265e790bcff2.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0b9c40a46fc214681e535018ae28efa4c4bc19e061d374213e12d0e83734d079.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/0b9c40a46fc214681e535018ae28efa4c4bc19e061d374213e12d0e83734d079.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/0b9c40a46fc214681e535018ae28efa4c4bc19e061d374213e12d0e83734d079.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/0b9c40a46fc214681e535018ae28efa4c4bc19e061d374213e12d0e83734d079.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/4c55103db9b5e0a9615a9c0c1d411a40c69d9347a0a4c8216aa1b68e352b85a3.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/4c55103db9b5e0a9615a9c0c1d411a40c69d9347a0a4c8216aa1b68e352b85a3.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/5dc2ab949914ea069aeeda1f2dda73d0c5fdb6dc077982712627628033736c61.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/5dc2ab949914ea069aeeda1f2dda73d0c5fdb6dc077982712627628033736c61.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/79b68fc29465723a22f5711efc78e7c7b2586dcc2c2b673f30ac3cf4ccc4fbaf.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/79b68fc29465723a22f5711efc78e7c7b2586dcc2c2b673f30ac3cf4ccc4fbaf.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/79b68fc29465723a22f5711efc78e7c7b2586dcc2c2b673f30ac3cf4ccc4fbaf.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/79b68fc29465723a22f5711efc78e7c7b2586dcc2c2b673f30ac3cf4ccc4fbaf.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/79b68fc29465723a22f5711efc78e7c7b2586dcc2c2b673f30ac3cf4ccc4fbaf_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/79b68fc29465723a22f5711efc78e7c7b2586dcc2c2b673f30ac3cf4ccc4fbaf_screenshots.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/959106a59ef94db954b1f85a78305185d4b093679be8db39a0de1f7eb7776565.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/959106a59ef94db954b1f85a78305185d4b093679be8db39a0de1f7eb7776565.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-79b68fc29465723a22f5711efc78e7c7b2586dcc2c2b673f30ac3cf4ccc4fbaf.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-79b68fc29465723a22f5711efc78e7c7b2586dcc2c2b673f30ac3cf4ccc4fbaf.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/a0ace456df350117335ad374e8d62c0d8c978db868ea1469e0c5ba32aac965ea.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/a0ace456df350117335ad374e8d62c0d8c978db868ea1469e0c5ba32aac965ea.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-bd3eeffba28c0e80187c32f5d7315a5bce80b9bbbe14041fd19fa33c78ef21b1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/SERENITY-JUNIT-bd3eeffba28c0e80187c32f5d7315a5bce80b9bbbe14041fd19fa33c78ef21b1.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/b964a040ccee2192880812cc5de2c4d0075e3288c1b298b7dda0839367bb26be.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bd3eeffba28c0e80187c32f5d7315a5bce80b9bbbe14041fd19fa33c78ef21b1.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/bd3eeffba28c0e80187c32f5d7315a5bce80b9bbbe14041fd19fa33c78ef21b1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bd3eeffba28c0e80187c32f5d7315a5bce80b9bbbe14041fd19fa33c78ef21b1.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/bd3eeffba28c0e80187c32f5d7315a5bce80b9bbbe14041fd19fa33c78ef21b1.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/bd3eeffba28c0e80187c32f5d7315a5bce80b9bbbe14041fd19fa33c78ef21b1_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/bd3eeffba28c0e80187c32f5d7315a5bce80b9bbbe14041fd19fa33c78ef21b1_screenshots.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-chrome.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/browser-firefox.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/browser-firefox.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/build-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/build-info.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/ca811eba82acda27813daa7a04ebdb62fdd9b3565b7d7156ae5e866588dd7abd.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/ca811eba82acda27813daa7a04ebdb62fdd9b3565b7d7156ae5e866588dd7abd.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/ca811eba82acda27813daa7a04ebdb62fdd9b3565b7d7156ae5e866588dd7abd.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/ca811eba82acda27813daa7a04ebdb62fdd9b3565b7d7156ae5e866588dd7abd.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/capabilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/capabilities.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/ccf93cc8bc285d273ae6d6d912610a6ee3fcd5538c46156a20aa020e0b1ea70a.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/ccf93cc8bc285d273ae6d6d912610a6ee3fcd5538c46156a20aa020e0b1ea70a.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/site/serenity/d2f62ae517f0723cc43ca8de29c7f6dfc67ea4e6729e5618528c2576d6585fb2.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d2f62ae517f0723cc43ca8de29c7f6dfc67ea4e6729e5618528c2576d6585fb2.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/d3a40e04d8bef34bf8d69a0a1dd0da0c85b58b30fe8ce19d04ab4ee844acda62.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d3a40e04d8bef34bf8d69a0a1dd0da0c85b58b30fe8ce19d04ab4ee844acda62.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/d3a40e04d8bef34bf8d69a0a1dd0da0c85b58b30fe8ce19d04ab4ee844acda62.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/d3a40e04d8bef34bf8d69a0a1dd0da0c85b58b30fe8ce19d04ab4ee844acda62.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/da5b0c51b332adf0ef993a9f086d6a1b51a3d800248ec6ae281212092f35bd37.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/e38cad83ba4189d60abed1ffd2946fd6f6bea182afab55e153c8134377680723.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e38cad83ba4189d60abed1ffd2946fd6f6bea182afab55e153c8134377680723.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e6036fff473d0da0294b126e4cbb1574189e45ab48e3dfed7e8caf42559a1010.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e6036fff473d0da0294b126e4cbb1574189e45ab48e3dfed7e8caf42559a1010.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e6036fff473d0da0294b126e4cbb1574189e45ab48e3dfed7e8caf42559a1010.json" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e6036fff473d0da0294b126e4cbb1574189e45ab48e3dfed7e8caf42559a1010.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/site/serenity/e6036fff473d0da0294b126e4cbb1574189e45ab48e3dfed7e8caf42559a1010_screenshots.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/e6036fff473d0da0294b126e4cbb1574189e45ab48e3dfed7e8caf42559a1010_screenshots.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/results.csv" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/results.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/site/serenity/summary.txt" beforeDir="false" afterPath="$PROJECT_DIR$/target/site/serenity/summary.txt" afterDir="false" />
@@ -118,7 +120,27 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Gradle.LoginPageTest">
+  <component name="RunManager" selected="JUnit.AccountPageTest">
+    <configuration name="ContactUsPageTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;AppTests.ContactUsPageTest&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
     <configuration name="LoginPageTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -139,67 +161,9 @@
       <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
       <method v="2" />
     </configuration>
-    <configuration name="LoginPageTest.AppLoginTest" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;AppTests.LoginPageTest.AppLoginTest&quot; --info" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="SerenityWithSelenium [test]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value="test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="grdl" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
-      <ExternalSystemSettings>
-        <option name="executionName" />
-        <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="externalSystemIdString" value="GRADLE" />
-        <option name="scriptParameters" value="--tests &quot;grdl&quot;" />
-        <option name="taskDescriptions">
-          <list />
-        </option>
-        <option name="taskNames">
-          <list>
-            <option value=":cleanTest" />
-            <option value=":test" />
-          </list>
-        </option>
-        <option name="vmOptions" />
-      </ExternalSystemSettings>
-      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
-      <method v="2" />
-    </configuration>
-    <configuration name="LoginPageTest.AppLoginTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="AccountPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="SerenityWithSelenium.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="AppTests.*" />
@@ -207,20 +171,72 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="AppTests" />
-      <option name="MAIN_CLASS_NAME" value="AppTests.LoginPageTest" />
-      <option name="METHOD_NAME" value="AppLoginTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="MAIN_CLASS_NAME" value="AppTests.AccountPageTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="PARAMETERS" value="" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ContactUsPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SerenityWithSelenium.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AppTests" />
+      <option name="MAIN_CLASS_NAME" value="AppTests.ContactUsPageTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ContactUsPageTest.contactUsPageTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="SerenityWithSelenium.test" />
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="AppTests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="AppTests" />
+      <option name="MAIN_CLASS_NAME" value="AppTests.ContactUsPageTest" />
+      <option name="METHOD_NAME" value="contactUsPageTest" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <shortenClasspath name="CLASSPATH_FILE" />
+      <option name="MAIN_CLASS_NAME" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Gradle.ContactUsPageTest" />
+      <item itemvalue="Gradle.LoginPageTest" />
+      <item itemvalue="JUnit.ContactUsPageTest" />
+      <item itemvalue="JUnit.ContactUsPageTest.contactUsPageTest" />
+      <item itemvalue="JUnit.AccountPageTest" />
+    </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.AccountPageTest" />
+        <item itemvalue="JUnit.ContactUsPageTest" />
+        <item itemvalue="JUnit.ContactUsPageTest.contactUsPageTest" />
+        <item itemvalue="Gradle.ContactUsPageTest" />
         <item itemvalue="Gradle.LoginPageTest" />
-        <item itemvalue="Gradle.LoginPageTest.AppLoginTest" />
-        <item itemvalue="JUnit.LoginPageTest.AppLoginTest" />
-        <item itemvalue="Gradle.SerenityWithSelenium [test]" />
-        <item itemvalue="Gradle.grdl" />
       </list>
     </recent_temporary>
   </component>

@@ -27,4 +27,10 @@ public class LoginPageSteps {
 
         Assert.assertEquals("MY ACCOUNT",text);
     }
+
+    @Step
+    public void navigateToContactUsPage(){
+
+        loginPage.goToContactUsPage();
+    }
 }

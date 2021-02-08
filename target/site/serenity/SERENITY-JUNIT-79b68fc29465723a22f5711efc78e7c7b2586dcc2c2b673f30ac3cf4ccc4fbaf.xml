@@ -1,1 +1,1 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="AppTests.LoginPageTest" skipped="0" tests="1" time="23.63" timestamp="2021-02-03 10:33:43"><testcase classname="AppTests.LoginPageTest" name="App login test"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="AppTests.LoginPageTest" skipped="0" tests="1" time="16.35" timestamp="2021-02-08 07:42:13"><testcase classname="AppTests.LoginPageTest" name="App login test"/></testsuite>

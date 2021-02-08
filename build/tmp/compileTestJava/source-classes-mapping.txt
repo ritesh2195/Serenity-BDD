@@ -1,12 +1,18 @@
-AppTests/LoginPageTest.java
- AppTests.LoginPageTest
-Steps/AccountPageSteps.java
- Steps.AccountPageSteps
-UIPages/AccountPage.java
- UIPages.AccountPage
-UIPages/LoginPage.java
- UIPages.LoginPage
 Steps/LoginPageSteps.java
  Steps.LoginPageSteps
+UIPages/ContactUsPage.java
+ UIPages.ContactUsPage
+UIPages/LoginPage.java
+ UIPages.LoginPage
+AppTests/LoginPageTest.java
+ AppTests.LoginPageTest
 AppTests/AccountPageTest.java
  AppTests.AccountPageTest
+UIPages/AccountPage.java
+ UIPages.AccountPage
+AppTests/ContactUsPageTest.java
+ AppTests.ContactUsPageTest
+Steps/ContactUsPageSteps.java
+ Steps.ContactUsPageSteps
+Steps/AccountPageSteps.java
+ Steps.AccountPageSteps
